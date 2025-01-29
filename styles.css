@@ -322,7 +322,7 @@ nav {
 
 .blog {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("assets/blog.jpg");
+    url("assets/blog.JPEG");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
